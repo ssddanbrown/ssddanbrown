@@ -11,15 +11,3 @@
 :earth_asia: My Website: https://danb.me
 
 :bird: Twitter: [@ssddanbrown](https://twitter.com/ssddanbrown)
-
-
-```bash
-                  PHP: [||||||||||||||||||||||||||||||           ]
-           JavaScript: [||||||||||||                             ]
-JavaScript with Cider: [|||||||||||||||||||||||||||||||||||||    ]
-                 Dogs: [|||||||||||||||||||||||||||||||||||      ]
-                 Cats: [|||||||||||||||||||||||||||||||||||||||||||||]
-                       [                        |||||||||||||||||] :troppuS LTR
-        Accessibility: [     .        .        .                 ]
-Meaning of these bars: [||                                       ]
-```
