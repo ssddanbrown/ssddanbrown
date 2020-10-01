@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align='left' src="https://user-images.githubusercontent.com/8343178/94860569-2a52ac80-042e-11eb-9b8b-4147c3567682.png">
 
-<!--
-**ssddanbrown/ssddanbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :wave: Hello, my name is Dan
 
-Here are some ideas to get you started:
+```ruby
+<- That's my cat Ruby, She will judge your commits
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+:earth_asia: My Website: https://danb.me
+
+:bird: Twitter: [@ssddanbrown](https://twitter.com/ssddanbrown)
+
