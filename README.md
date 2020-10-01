@@ -12,3 +12,14 @@
 
 :bird: Twitter: [@ssddanbrown](https://twitter.com/ssddanbrown)
 
+
+```bash
+                  PHP: [||||||||||||||||||||||||||||||           ]
+           JavaScript: [||||||||||||                             ]
+JavaScript with Cider: [|||||||||||||||||||||||||||||||||||||    ]
+                 Dogs: [|||||||||||||||||||||||||||||||||||      ]
+                 Cats: [|||||||||||||||||||||||||||||||||||||||||||||]
+                       [                        |||||||||||||||||] :troppuS LTR
+        Accessibility: [     .        .        .                 ]
+Meaning of these bars: [||                                       ]
+```
