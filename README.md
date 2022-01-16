@@ -16,7 +16,7 @@ Hello, my name is Dan and I am a full-stack developer based in Hampshire, UK ðŸ‡
 - [@ssddanbrown on Twitter](https://twitter.com/ssddanbrown)
 - [LinkedIn](https://www.linkedin.com/in/danjamesbrown/)
 
-I can often be found on the [BookStack Discord server](https://discord.gg/ztkBqR2)
+I can often be found on the [BookStack Discord server](https://discord.gg/ztkBqR2).
 
 
 ## ðŸ”§ Tools I Use
@@ -25,3 +25,5 @@ I can often be found on the [BookStack Discord server](https://discord.gg/ztkBqR
 - **Editors:** PHPStorm & Sublime Text
 - **PC:** Ryzen 2600, 16GB RAM, AMD Vega64 GPU
 - **Monitors:** 2x LG 4k IPS Panels
+
+A deeper dive of my setup [can be seen here](https://danb.me/blog/posts/2022-workstation/).
