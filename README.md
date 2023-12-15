@@ -13,8 +13,8 @@ I can often be found on the [BookStack Discord server](https://discord.gg/ztkBqR
 ## 🔧 Tools I Use
 
 - **Operating System:** Linux (Currently Fedora)
-- **Editors:** PHPStorm & Sublime Text
-- **PC:** Ryzen 5800x, 16GB RAM, AMD Vega64 GPU
+- **Editors:** PHPStorm, VSCode & Sublime Text
+- **PC:** Ryzen 5800x, 32GB RAM, AMD RX 7800XT GPU
 - **Monitors:** 2x LG 4k IPS Panels
 
 A deeper dive of my setup [can be seen here](https://danb.me/blog/posts/2022-workstation/).
