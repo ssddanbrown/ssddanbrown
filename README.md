@@ -2,9 +2,12 @@
 
 Hello, my name is Dan and I am a full-stack developer based in Hampshire, UK 🇬🇧. I primarily build for the web, with PHP being my preferred language for back-end, but I also dabble in other areas such as Go.
 
+_**Note:** as of July 2024 most of my open source projects have been moved to [my profile on Codeberg](https://codeberg.org/danb)._
+
 ## 🔭 Find Me Elsewhere
 
 - [My Website](https://danb.me)
+- [Codeberg](https://codeberg.org/danb)
 - [Mastodon](https://fosstodon.org/@danb)
 - [LinkedIn](https://www.linkedin.com/in/danjamesbrown/)
 
